@@ -1,0 +1,2 @@
+let companyName ="scuber";
+// undefined
